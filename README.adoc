@@ -1,0 +1,15 @@
+=== For Developers:
+
+on linux:
+
+[source,bash]
+----
+./gradlew clean test
+----
+
+on windows:
+
+[source,bash]
+----
+gradlew.bat clean test
+----
