@@ -22,6 +22,6 @@ public class AppTest {
         // when
         App.main(new String[]{});
         // then
-        verify(out).print(is("0"));
+        verify(out).println(is("0"));
     }
 }

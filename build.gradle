@@ -1,6 +1,7 @@
 
 
 apply plugin: 'java'
+apply plugin: 'application'
 
 // In this section you declare where to find the dependencies of your project
 repositories {
@@ -21,3 +22,5 @@ dependencies {
     testCompile 'junit:junit:4.12'
     testCompile 'org.mockito:mockito-core:2.7.+'
 }
+
+mainClassName = "com.adcubum.team.testing.calculator.App"
