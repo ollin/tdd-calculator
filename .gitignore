@@ -212,3 +212,5 @@ gradle-app.setting
 .cache-main
 .scala_dependencies
 .worksheet
+/s101plugin.properties
+/s101plugin.state

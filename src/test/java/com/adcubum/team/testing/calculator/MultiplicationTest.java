@@ -1,6 +1,5 @@
-package com.adcubum.team.testing.javacompiler;
+package com.adcubum.team.testing.calculator;
 
-import org.hamcrest.CoreMatchers;
 import org.junit.Test;
 
 import static org.hamcrest.CoreMatchers.is;

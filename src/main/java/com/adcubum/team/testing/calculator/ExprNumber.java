@@ -1,4 +1,4 @@
-package com.adcubum.team.testing.javacompiler;
+package com.adcubum.team.testing.calculator;
 
 public class ExprNumber implements Expr {
 
